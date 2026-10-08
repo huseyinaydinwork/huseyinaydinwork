@@ -8,7 +8,7 @@ Building at the intersection of technology, business, design, and human behavior
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,postgres,sqlite,docker,git,figma" />
+<img alt="JavaScript, TypeScript, Node.js, Next.js, React, Tailwind CSS, PostgreSQL, SQLite, Docker, Git, and Figma" src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,postgres,sqlite,docker,git,figma" />
 
 <br />
 <br />
