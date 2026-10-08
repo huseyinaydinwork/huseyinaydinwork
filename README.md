@@ -21,13 +21,13 @@ Building at the intersection of technology, business, design, and human behavior
 
 ## Selected Projects
 
-### BürOS
+### [BürOS](https://github.com/huseyinaydinwork/Bros)
 Office and project operations system for architecture and engineering teams.
 
-### BUYUR Management Panel
+### [BUYUR Management Panel](https://github.com/huseyinaydinwork/buyur.managment.panel)
 Growth and sales operations panel for campaigns, leads, deals, customers, and team projects.
 
-### Linggo
+### [Linggo](https://github.com/huseyinaydinwork/linggo)
 Mobile-first English learning platform for Turkish speakers.
 
 ---
