@@ -1,5 +1,7 @@
 # Hüseyin Aydın
 
+![AI-assisted product builder](https://img.shields.io/badge/AI--assisted%20product%20builder-0969DA?style=flat-square)
+
 > Building practical AI-assisted products with a focus on SaaS tools, learning experiences, and workflow systems.
 
 ## Selected Projects
