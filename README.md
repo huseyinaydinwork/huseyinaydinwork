@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hüseyin Aydın
 
-<!--
-**huseyinaydinwork/huseyinaydinwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building practical AI-assisted products with a focus on SaaS tools, learning experiences, and workflow systems.
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BürOS
+Office and project operations system for architecture and engineering teams.
+
+### BUYUR Management Panel
+Growth and sales operations panel for campaigns, leads, deals, customers, and team projects.
+
+### Linggo
+Mobile-first English learning platform for Turkish speakers.
+
+## Core Stack
+
+JavaScript · TypeScript · Node.js · Next.js · SQLite · PostgreSQL · Tailwind CSS
+
+## Focus
+
+I use AI-assisted development to move from idea to working product faster, while keeping the public profile focused on clear project value, readable documentation, and practical software.
