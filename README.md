@@ -2,7 +2,7 @@
 
 # Hi, I'm Hüseyin
 
-### Founder · Product Thinker · Systems Builder
+### Founder · Product Design · Systems Builder
 
 Building at the intersection of technology, business, design, and human behavior.
 
@@ -20,8 +20,7 @@ Building at the intersection of technology, business, design, and human behavior
 ---
 
 <div align="center">
-
-Website: [huseyinder.com](https://huseyinder.com)  
+ 
 Location: Istanbul, Türkiye  
 Focus: Entrepreneurship · Product Strategy · Digital Systems · Technology · Growth
 
