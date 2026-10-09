@@ -8,7 +8,7 @@ Building at the intersection of technology, business, design, and human behavior
 
 <br />
 
-<img alt="JavaScript, TypeScript, Node.js, Next.js, React, Tailwind CSS, PostgreSQL, SQLite, Docker, Git, and Figma" src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,postgres,sqlite,docker,git,figma"
+<img alt="JavaScript, TypeScript, Node.js, Next.js, React, Tailwind CSS, PostgreSQL, SQLite, Docker, Git, and Figma" src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,postgres,sqlite,docker,git,figma
 width="384" height="104" alt="Canva, Photoshop, Notion, Linear, Trello, Slack, Meta Business Suite, Meta Ads Manager, Google Analytics, Google Search Console, WhatsApp Business, LinkedIn, X (Twitter), and Instagram" src="./tool-icons.svg" />
 
 <br />
